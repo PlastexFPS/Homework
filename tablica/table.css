@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+}
+td,tr{
+    padding: 10x 20px;
+}
+tr{
+    border-top: 1px solid #a1a1a1;
+    border-bottom: 1px solid #a1a1a1;
+}
+.names{
+    width: 5%;
+}
+.first-border{
+    width: 80%;
+}
+.second-section{
+    margin-top: 50px;
+}
